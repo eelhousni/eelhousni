@@ -40,5 +40,4 @@ I build scalable, secure cloud infrastructure and automate delivery pipelines, w
 - **FutureSight**, DevOps Intern (2024)
 
 ## 🗣️ Languages
-
-Arabic (native) · French (professional) · English (professional)
+French (professional) · English (professional)
