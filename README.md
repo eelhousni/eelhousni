@@ -39,10 +39,6 @@ I build scalable, secure cloud infrastructure and automate delivery pipelines, w
 - **Helkinz**, Cloud DevOps Engineer (Oct 2025 – present), previously Apprentice (Sep 2024 – Oct 2025)
 - **FutureSight**, DevOps Intern (2024)
 
-## 🌐 Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/youssef-el-housni)
-
 ## 🗣️ Languages
 
 Arabic (native) · French (professional) · English (professional)
